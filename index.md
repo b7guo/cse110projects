@@ -1,5 +1,5 @@
 # CSE110 Software Engineering
-[README](README.md)
+[README/published link](README.md)
 - [CSE110 Software Engineering](#cse110-software-engineering)
   - [Introduction](#introduction)
   - [Hobbies](#hobbies)
@@ -7,12 +7,12 @@
   - [TODO](#todo)
 ## Introduction
 ![picture_of_me](img/IMG_9646.PNG)
-My name is **Bingrui Guo** and don't forget to checkout my [personal page](https://b7guo.github.io/). I was born in Xiamen, China and moved to the bay area at the age of 14. I love techs in general and I am currently very into web devs and backend development.
+My name is **Bingrui Guo** and don't forget to checkout my [personal page](https://b7guo.github.io/). I was born in *Xiamen, China* and moved to the ***bay area*** at the age of 14. I love techs in general and I am currently very into web devs and backend development. ~~I don't like coming to school with covid still around.~~
 ## Hobbies
 1. Video Games
-   - <img src = "img/League_IG.jpg" alt = "League" width = "540" height = "777">
-   - ![Naraka:Bladepoint](img/naraka.jpeg)
-   - ![CSGO](img/csgo.jpg)
+   - [League](https://github.com/b7guo/cse110projects/blob/main/img/League_IG.jpg)
+   - [Naraka:Bladepoint](https://github.com/b7guo/cse110projects/blob/main/img/naraka.jpeg)
+   - [CSGO](https://github.com/b7guo/cse110projects/blob/main/img/csgo.jpg)
 2. Sports
    - Snowboard
    - Basketball
