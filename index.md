@@ -22,3 +22,5 @@ My name is **Bingrui Guo** and don't forget to checkout my [personal page](https
 - `GreatestCodeOfAllTime = "Hello World!"` 
 ## TODO
 - [x] Lab Week 1
+      - ![screenshot1](screenshots/Screenshot%20from%202021-09-26%2019-38-41.png)
+      - ![screenshot2](screenshots/Screenshot%20from%202021-09-26%2019-54-00.png)
