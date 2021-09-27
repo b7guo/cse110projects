@@ -10,7 +10,7 @@
 My name is **Bingrui Guo** and don't forget to checkout my [personal page](https://b7guo.github.io/). I was born in Xiamen, China and moved to the bay area at the age of 14. I love techs in general and I am currently very into web devs and backend development.
 ## Hobbies
 1. Video Games
-   - League[[https://github.com/b7guo/cse110projects/blob/main/img/League_IG.jpg =540x777]]
+   - League[[https://raw.githubusercontent.com/b7guo/cse110projects/main/img/League_IG.jpg =540x777]]
    - ![Naraka:Bladepoint](img/naraka.jpeg)
    - ![CSGO](img/csgo.jpg)
 2. Sports
