@@ -5,6 +5,7 @@
   - [Random](#random)
   - [TODO](#todo)
 ## Introduction
+![picture_of_me](img/IMG_9646.PNG)
 My name is **Bingrui Guo** and don't forget to checkout my [personal page](https://b7guo.github.io/). I was born in Xiamen, China and moved to the bay area at the age of 14. I love techs in general and I am currently very into web devs and backend development.
 ## Hobbies
 1. Video Games
