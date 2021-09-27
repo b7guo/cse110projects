@@ -1,5 +1,5 @@
 # CSE110 Software Engineering
-[weblink](README.md)
+[README](README.md)
 - [CSE110 Software Engineering](#cse110-software-engineering)
   - [Introduction](#introduction)
   - [Hobbies](#hobbies)
